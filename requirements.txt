@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+uszipcode==1.0.1
+sqlalchemy-mate==1.4.28.4
+SQLAlchemy>=1.4,<2.0
+gender-guesser
